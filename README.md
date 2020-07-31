@@ -54,7 +54,7 @@ Prototipo de tela:
 
 Telas 
 
-<img src="Prototipos/ENTRAR.png" width="100"/><img src="Prototipos/CRIAR_CONTA.png" /><img src="Prototipos/CONFIGURAR_TAXA.png" />
+<img src="Prototipos/ENTRAR.png" width="500"/><img src="Prototipos/CRIAR_CONTA.png" width="500"/><img src="Prototipos/CONFIGURAR_TAXA.png" width="500"/>
 <img src="Prototipos/CONSUMPTION.png" /><img src="Prototipos/SMART.png" /><img src="Prototipos/ADD_DISPOSITIVO.png" />
 <img src="Prototipos/DISPOSITIVO_COMUM.png" /><img src="Prototipos/PROCURANDO_DISPOSITIVO.png" /><img src="Prototipos/DISPOSITIVOS.png" />
 <img src="Prototipos/CHAT_BOT1.png" /><img src="Prototipos/CHAT_BOT2.png" /><img src="Prototipos/CHAT_BOT3.png" />
