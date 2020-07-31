@@ -50,9 +50,31 @@ Back-end:
 - SQLite
 
 Prototipo de tela:
-- figma 
+- [Figma][figma]
 
-Tela 
+Telas 
 
-<img src="Prototipos/prototipo.JPG" />
+<img src="Prototipos/ENTRAR.png" />
+<img src="Prototipos/CRIAR_CONTA.png" />
+<img src="Prototipos/CONFIGURAR_TAXA.png" />
+<img src="Prototipos/CONSUMPTION.png" />
+<img src="Prototipos/SMART.png" />
+<img src="Prototipos/ADD_DISPOSITIVO.png" />
+<img src="Prototipos/DISPOSITIVO_COMUM.png" />
+<img src="Prototipos/PROCURANDO_DISPOSITIVO.png" />
+<img src="Prototipos/DISPOSITIVOS.png" />
+<img src="Prototipos/SETTINGS.png" />
+<img src="Prototipos/CHATBOT1.png" />
+<img src="Prototipos/CHATBOT2.png" />
+<img src="Prototipos/CHATBOT3.png" />
 
+Equipe:
+- [Anne K. C. Macedo (Marketing)][karol]
+- [Luiz Miyanishi (Desenvolvedor)][luiz]
+- Simão R. de Mesquita (Business)
+- [Thainá Weingartner (Designer)][thaina]
+
+[figma]:https://www.figma.com/proto/5ooutrgV7i047O3qcwTTaT/2Eco?node-id=0%3A1&scaling=scale-down
+[karol]:https://github.com/AnneMacedo
+[luiz]:https://github.com/trainningjava
+[thaina]:https://github.com/thainaweingartner
