@@ -30,11 +30,13 @@ npm install - isso instala as dependencias
 npm start - iniciará o projeto na porta 3000
 
 <h2>Técnologias usadas</h2>
+
 Front-end:
 - HTML
 - CSS
 - JavaScript
 - Google Charts
+- IBM Cloud ChatBot
 
 Template engine: 
 - Nunjucks
