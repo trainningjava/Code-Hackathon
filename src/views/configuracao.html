@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>2ECO</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu:wght@300;700&display=swap"
+    />
+    <link rel="stylesheet" href="/styles/configuracao.css" />
+  </head>
+  <body>
+    {% if msg %}
+    <script>
+      alert("{{msgtxt}}");
+    </script>
+    {% endif %}
+    <div id="logowelcome"></div>
+
+    <h2>CONFIGURAÇÕES</h2>
+
+    <div class="fieldspace"></div>
+
+    <form action="/cad-panel" method="GET">
+      <div class="field-group">
+        <div class="field">
+          <button type="submit">Configurar taxa</button>
+        </div>
+      </div>
+    </form>
+
+    <div class="fieldspace"></div>
+
+    <form action="/" method="GET">
+      <div class="field-group">
+        <div class="field">
+          <button type="submit">SAIR</button>
+        </div>
+      </div>
+    </form>
+    <div class="time30">Call to Code 2020 - IMB - Time 30</div>
+  </body>
+</html>
