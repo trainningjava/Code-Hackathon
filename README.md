@@ -56,7 +56,7 @@ Telas
 
 <img src="Prototipos/ENTRAR.png" width="300"/><img src="Prototipos/CRIAR_CONTA.png" width="300"/><img src="Prototipos/CONFIGURAR_TAXA.png" width="300"/>
 <img src="Prototipos/CONSUMPTION.png" width="300"/><img src="Prototipos/SMART.png" width="300"/><img src="Prototipos/ADD_DISPOSITIVO.png" width="300"/>
-<img src="Prototipos/DISPOSITIVO_COMUM.png" width="300"/><img src="Prototipos/PROCURANDO_DISPOSITIVO.png" width="300"/><img src="Prototipos/DISPOSITIVOS.png" width="300"/>
+<img src="Prototipos/DISPOSITIVO_COMUM.png" width="300"/><img src="Prototipos/PROCURANDO DISPOSITIVO.png" width="300"/><img src="Prototipos/DISPOSITIVOS.png" width="300"/>
 <img src="Prototipos/CHAT_BOT1.png" width="300"/><img src="Prototipos/CHAT_BOT2.png" width="300"/><img src="Prototipos/CHAT_BOT3.png" width="300"/>
 
 Equipe:
