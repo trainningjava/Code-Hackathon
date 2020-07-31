@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>2ECO</title>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu:wght@300;700&display=swap"
+    />
+    <link rel="stylesheet" href="/styles/main.css" />
+  </head>
+  <body>
+    {% if msg %}
+    <script>
+      alert("{{msgtxt}}");
+    </script>
+    {% endif %}
+    <div id="logo"></div>
+
+    <form action="/access" method="POST">
+      <div class="field-group">
+        <div class="field">
+          <input
+            type="text"
+            name="email"
+            placeholder="Digite o email"
+            required="required"
+          />
+        </div>
+      </div>
+
+      <div class="field-group">
+        <div class="field">
+          <input
+            type="password"
+            name="password"
+            placeholder="Digite sua senha"
+            required="required"
+          />
+        </div>
+      </div>
+
+      <div class="field-group">
+        <div class="field">
+          <button type="submit">Entrar</button>
+        </div>
+      </div>
+    </form>
+    <form action="/create-account" method="POST">
+      <div class="field-group">
+        <div class="field">
+          <button class="a" type="submit">Criar a conta</button>
+        </div>
+      </div>
+    </form>
+    <div class="time30">Call to Code 2020 - IMB - Time 30</div>
+  </body>
+</html>

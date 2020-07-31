@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>2ECO</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu:wght@300;700&display=swap"
+    />
+    <link rel="stylesheet" href="/styles/main.css" />
+  </head>
+  <body>
+    {% if msg %}
+    <script>
+      alert("{{msgtxt}}");
+    </script>
+    {% endif %}
+    <div id="logowelcome"></div>
+
+    <form action="/create-tax" method="POST">
+      <div class="field-group">
+        <div class="field">
+          <input
+            type="text"
+            name="taxa"
+            placeholder="Taxa de energia do seu Estado em R$"
+            required="required"
+            value="13,06"
+          />
+        </div>
+      </div>
+
+      <div class="field-group">
+        <div class="field">
+          <input
+            type="text"
+            name="custo"
+            placeholder="Custo fixo por dia"
+            required="required"
+          />
+        </div>
+      </div>
+
+      <div class="field-group">
+        <div class="field">
+          <a href="#" class="arrow-left" id="arrow-left">
+            <i
+              class="fa fa-arrow-circle-left fa-3x"
+              style="color: #9f9c9c;"
+            ></i>
+          </a>
+          <label class="qtddias" for="qtddias">30</label>
+          <a href="#" class="arrow-right" id="arrow-right">
+            <i
+              class="fa fa-arrow-circle-right fa-3x"
+              style="color: #9f9c9c;"
+            ></i>
+          </a>
+        </div>
+      </div>
+
+      <div class="field-group">
+        <div class="field">
+          <button type="submit">Criar</button>
+        </div>
+      </div>
+    </form>
+
+    <div class="time30">Call to Code 2020 - IMB - Time 30</div>
+  </body>
+</html>
+<script src="/scripts/cad-panel.js"></script>

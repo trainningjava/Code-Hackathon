@@ -1,0 +1,137 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+}
+
+#logo {
+  margin-top: 42px;
+  height: 20vh;
+  background: url("/assets/logo.svg") no-repeat;
+  background-position: top center;
+}
+#logowelcome {
+  margin-top: 42px;
+  height: 20vh;
+  background: url("/assets/wellcome.svg") no-repeat;
+  background-position: top center;
+}
+#mensagem {
+  margin-top: 42px;
+  height: 20vh;
+  background: url("/assets/mensagem.svg") no-repeat;
+  background-position: top center;
+}
+h2 {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 45px;
+}
+
+form {
+  background-color: white;
+  margin: 20px auto;
+}
+
+form .field {
+  flex: 1;
+
+  display: flex;
+  justify-content: center;
+
+  margin-bottom: 24px;
+}
+
+.time30 {
+  flex: 1;
+
+  display: flex;
+  justify-content: center;
+  color: #09485f;
+
+  margin-bottom: 14px;
+  font-size: small;
+}
+
+.economia {
+  flex: 1;
+
+  display: flex;
+  justify-content: space-between;
+  background-color: red;
+  color: #09485f;
+
+  margin-bottom: 14px;
+  font-size: small;
+}
+
+form input {
+  background-color: #f0f0f5;
+
+  border: 0;
+  padding: 16px 24px;
+  font-size: 16px;
+  width: 550px;
+
+  border-radius: 8px;
+}
+
+form label {
+  background-color: #f0f0f5;
+
+  text-align: center;
+  border: 0;
+  padding: 16px 24px;
+  font-size: 16px;
+  width: 350px;
+
+  border-radius: 8px;
+}
+
+input:focus {
+  background-color: yellow;
+}
+
+form button {
+  width: 260px;
+  height: 56px;
+
+  background-color: #09485f;
+  border-radius: 20.52px;
+
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+
+  border: 0;
+
+  margin-top: 10px;
+
+  transition: background-color 400ms;
+}
+
+form button.a {
+  width: 260px;
+  height: 56px;
+
+  background-color: #eceff0;
+  border-radius: 20.52px;
+
+  color: black;
+  font-weight: bold;
+  font-size: 16px;
+
+  border: 0;
+
+  margin-top: 10px;
+
+  transition: background-color 400ms;
+}
+
+form button:hover {
+  background-color: #a7dc10;
+}

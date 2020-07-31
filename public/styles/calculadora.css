@@ -1,0 +1,213 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+}
+
+#logo {
+  margin-top: 42px;
+  height: 20vh;
+  background: url("/assets/logo.svg") no-repeat;
+  background-position: top center;
+}
+#logowelcome {
+  margin-top: 42px;
+  height: 20vh;
+  background: url("/assets/wellcome.svg") no-repeat;
+  background-position: top center;
+}
+#mensagem {
+  margin-top: 42px;
+  height: 20vh;
+  background: url("/assets/mensagem.svg") no-repeat;
+  background-position: top center;
+}
+h2 {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 45px;
+}
+
+form {
+  background-color: white;
+  margin: 20px auto;
+}
+
+form .field {
+  flex: 1;
+
+  display: flex;
+  justify-content: center;
+
+  margin-bottom: 24px;
+}
+
+.time30 {
+  flex: 1;
+
+  display: flex;
+  justify-content: center;
+  color: #09485f;
+
+  margin-bottom: 14px;
+  font-size: small;
+}
+
+.economia {
+  flex: 1;
+
+  display: flex;
+  justify-content: space-between;
+  background-color: red;
+  color: #09485f;
+
+  margin-bottom: 14px;
+  font-size: small;
+}
+
+form input {
+  background-color: #f0f0f5;
+  border: 0;
+  padding: 16px 24px;
+  font-size: 14px;
+  width: 450px;
+
+  border-radius: 8px;
+}
+
+form label {
+  background-color: #f0f0f5;
+
+  text-align: center;
+  border: 0;
+  padding: 16px 24px;
+  font-size: 14px;
+  width: 180px;
+
+  border-radius: 8px;
+}
+
+input:focus {
+  background-color: yellow;
+}
+
+form button {
+  width: 260px;
+  height: 36px;
+
+  background-color: #09485f;
+  border-radius: 20.52px;
+
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+
+  border: 0;
+
+  margin-top: 10px;
+
+  transition: background-color 400ms;
+}
+
+form button.a {
+  width: 260px;
+  height: 56px;
+
+  background-color: #eceff0;
+  border-radius: 20.52px;
+
+  color: black;
+  font-weight: bold;
+  font-size: 16px;
+
+  border: 0;
+
+  margin-top: 10px;
+
+  transition: background-color 400ms;
+}
+
+form button:hover {
+  background-color: #a7dc10;
+}
+
+#smart {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/smart.svg") no-repeat;
+}
+
+#smart:hover {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/smart1.svg") no-repeat;
+}
+
+#consumo {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/consumo.svg") no-repeat;
+}
+
+#consumo:hover {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/consumo1.svg") no-repeat;
+}
+
+#calculadora {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/calculadora.svg") no-repeat;
+}
+
+#calculadora:hover {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/calculadora1.svg") no-repeat;
+}
+
+#robeco {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/robeco.svg") no-repeat;
+}
+
+#robeco:hover {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/robeco1.svg") no-repeat;
+}
+
+#consumo {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/consumo.svg") no-repeat;
+}
+
+#consumo:hover {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/consumo1.svg") no-repeat;
+}
+
+#configuracao {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/configuracao.svg") no-repeat;
+}

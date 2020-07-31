@@ -1,0 +1,250 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+  background-color: white;
+  margin: 20px auto;
+}
+
+#mensagem {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/mensagem.svg") no-repeat;
+}
+
+#smart {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/smart.svg") no-repeat;
+}
+
+#smart:hover {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/smart1.svg") no-repeat;
+}
+
+#consumo {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/consumo.svg") no-repeat;
+}
+
+#consumo:hover {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/consumo1.svg") no-repeat;
+}
+
+#calculadora {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/calculadora.svg") no-repeat;
+}
+
+#calculadora:hover {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/calculadora1.svg") no-repeat;
+}
+
+#robeco {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/robeco.svg") no-repeat;
+}
+
+#robeco:hover {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/robeco1.svg") no-repeat;
+}
+
+#consumo {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/consumo.svg") no-repeat;
+}
+
+#consumo:hover {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/consumo1.svg") no-repeat;
+}
+
+#configuracao {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/configuracao.svg") no-repeat;
+}
+
+h2 {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 45px;
+}
+
+.fieldspace {
+  height: 30px;
+}
+
+.field-group {
+  align-content: center;
+  align-items: center;
+  width: 600px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+.field {
+  display: flex;
+  align-items: center;
+  width: 330px;
+  height: 200px;
+  text-align: center;
+}
+
+.field-group2 {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  width: 500px;
+  margin: 0 auto;
+}
+
+.field2 {
+  display: flex;
+  text-align: center;
+  width: 300px;
+
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.field3 {
+  background-color: #eceff0;
+  line-height: 35px;
+  border-radius: 20.52px;
+  height: 65px;
+  width: 150px;
+}
+
+.field4 {
+  color: #09485f;
+}
+
+.field5 {
+  color: #9f9c9c;
+}
+
+.rodape {
+  height: 45px;
+  width: 50%;
+}
+
+.economia {
+  align-items: center;
+  text-align: center;
+  width: 250px;
+  height: 150px;
+  line-height: 145px;
+}
+
+.grid {
+  display: grid;
+}
+
+.grid-columns-1 {
+  grid-template-columns: 120px 120px 120px 120px 120px;
+  text-align: center;
+}
+
+.grid-columns-2 {
+  grid-template-columns: 200px 200px;
+  grid-template-rows: 135px 135px;
+
+  text-align: center;
+}
+
+.divc {
+  margin: 0 35%;
+  width: 500px;
+}
+
+.divc1 {
+  margin: 0 42%;
+}
+
+.item2 {
+  background-color: #09485f;
+  border-radius: 20.52px;
+}
+
+.item:hover {
+  cursor: pointer;
+}
+
+.item2:hover {
+  cursor: pointer;
+  background-color: #09485f;
+  border-radius: 20.52px;
+}
+
+#dispositos1 {
+  width: 143px;
+  height: 120px;
+
+  background: url("/assets/dispositivosmart1.svg") no-repeat;
+}
+
+#dispositos2 {
+  width: 143px;
+  height: 120px;
+
+  background: url("/assets/dispositivosmart2.svg") no-repeat;
+}
+
+#dispositos3 {
+  width: 143px;
+  height: 120px;
+
+  background: url("/assets/dispositivosmart3.svg") no-repeat;
+}
+
+#dispositos4 {
+  width: 143px;
+  height: 120px;
+
+  background: url("/assets/dispositivosmart4.svg") no-repeat;
+}
+
+#dispositos5 {
+  width: 143px;
+  height: 120px;
+
+  background: url("/assets/dispositivosmart5.svg") no-repeat;
+}
+
+#dispositos6 {
+  width: 143px;
+  height: 120px;
+
+  background: url("/assets/dispositivosmart6.svg") no-repeat;
+}

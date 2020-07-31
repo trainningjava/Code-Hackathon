@@ -1,0 +1,180 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+  background-color: white;
+  margin: 20px auto;
+}
+
+#mensagem {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/mensagem.svg") no-repeat;
+}
+
+#smart {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/smart.svg") no-repeat;
+}
+
+#smart:hover {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/smart1.svg") no-repeat;
+}
+
+#consumo {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/consumo.svg") no-repeat;
+}
+
+#consumo:hover {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/consumo1.svg") no-repeat;
+}
+
+#calculadora {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/calculadora.svg") no-repeat;
+}
+
+#calculadora:hover {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/calculadora1.svg") no-repeat;
+}
+
+#robeco {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/robeco.svg") no-repeat;
+}
+
+#robeco:hover {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/robeco1.svg") no-repeat;
+}
+
+#consumo {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/consumo.svg") no-repeat;
+}
+
+#consumo:hover {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/consumo1.svg") no-repeat;
+}
+
+#configuracao {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/configuracao.svg") no-repeat;
+}
+
+h2 {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 45px;
+}
+
+.fieldspace {
+  height: 50px;
+}
+
+.field-group {
+  align-content: center;
+  align-items: center;
+  width: 600px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+.field-group-grafico {
+  align-items: center;
+  margin: 0 41%;
+  width: 600px;
+  height: 130px;
+}
+
+.field {
+  display: flex;
+  align-items: center;
+  width: 330px;
+  height: 200px;
+  text-align: center;
+}
+
+.fieldgrafico {
+  width: 50%;
+  align-content: center;
+}
+
+.field-group2 {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  width: 600px;
+  margin: 0 auto;
+}
+
+.field2 {
+  display: flex;
+  text-align: center;
+  width: 300px;
+
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.field3 {
+  background-color: #eceff0;
+  line-height: 35px;
+  border-radius: 20.52px;
+  height: 65px;
+  width: 150px;
+}
+
+.field4 {
+  color: #09485f;
+}
+
+.field5 {
+  color: #9f9c9c;
+}
+
+.rodape {
+  height: 45px;
+  width: 50%;
+}
+
+.economia {
+  align-items: center;
+  text-align: center;
+  width: 250px;
+  height: 150px;
+  line-height: 145px;
+}
