@@ -37,7 +37,7 @@ span {
 
 .rodape {
   height: 45px;
-  width: 50%;
+  width: 35%;
 }
 
 #logo {
@@ -221,6 +221,13 @@ form button:hover {
   height: 150px;
 
   background: url("/assets/robeco1.svg") no-repeat;
+}
+
+#dispositivo {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/dispositivos.svg") no-repeat;
 }
 
 #consumo {

@@ -73,13 +73,6 @@ html {
   background: url("/assets/robeco1.svg") no-repeat;
 }
 
-#dispositivo {
-  width: 200px;
-  height: 150px;
-
-  background: url("/assets/dispositivos.svg") no-repeat;
-}
-
 #consumo {
   width: 200px;
   height: 150px;
@@ -108,7 +101,7 @@ h2 {
 }
 
 .fieldspace {
-  height: 50px;
+  height: 15px;
 }
 
 .field-group {
@@ -119,13 +112,6 @@ h2 {
   margin: 0 auto;
 }
 
-.field-group-grafico {
-  align-items: center;
-  margin: 0 41%;
-  width: 600px;
-  height: 130px;
-}
-
 .field {
   display: flex;
   align-items: center;
@@ -134,16 +120,11 @@ h2 {
   text-align: center;
 }
 
-.fieldgrafico {
-  width: 50%;
-  align-content: center;
-}
-
 .field-group2 {
   display: flex;
   align-content: center;
   align-items: center;
-  width: 600px;
+  width: 500px;
   margin: 0 auto;
 }
 
@@ -184,4 +165,93 @@ h2 {
   width: 250px;
   height: 150px;
   line-height: 145px;
+}
+
+.grid {
+  display: grid;
+}
+
+.grid-columns-1 {
+  grid-template-columns: 250px;
+  text-align: center;
+}
+
+.grid-columns-2 {
+  grid-template-columns: 200px 200px;
+  grid-template-rows: 135px 135px;
+
+  text-align: center;
+}
+
+.divc {
+  margin: 0 35%;
+  width: 500px;
+}
+
+.divc1 {
+  margin: 0 42%;
+}
+
+.item2 {
+  background-color: #09485f;
+  border-radius: 20.52px;
+}
+
+.item:hover {
+  cursor: pointer;
+}
+
+.item2:hover {
+  cursor: pointer;
+  background-color: #09485f;
+  border-radius: 20.52px;
+}
+
+#dispositivo {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/img/dispositivos.svg") no-repeat;
+}
+
+#dispositos1 {
+  width: 350px;
+  height: 65px;
+
+  background: url("/assets/dispositivo1.svg") no-repeat;
+}
+
+#dispositos2 {
+  width: 350px;
+  height: 65px;
+
+  background: url("/assets/dispositivo2.svg") no-repeat;
+}
+
+#dispositos3 {
+  width: 350px;
+  height: 65px;
+
+  background: url("/assets/dispositivo3.svg") no-repeat;
+}
+
+#dispositos4 {
+  width: 350px;
+  height: 65px;
+
+  background: url("/assets/dispositivo4.svg") no-repeat;
+}
+
+#dispositos5 {
+  width: 350px;
+  height: 65px;
+
+  background: url("/assets/dispositivo5.svg") no-repeat;
+}
+
+#dispositos6 {
+  width: 350px;
+  height: 65px;
+
+  background: url("/assets/dispositivo6.svg") no-repeat;
 }

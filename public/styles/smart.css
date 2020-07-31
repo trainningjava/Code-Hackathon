@@ -156,7 +156,7 @@ h2 {
 
 .rodape {
   height: 45px;
-  width: 50%;
+  width: 35%;
 }
 
 .economia {
@@ -205,6 +205,13 @@ h2 {
   cursor: pointer;
   background-color: #09485f;
   border-radius: 20.52px;
+}
+
+#dispositivo {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/dispositivos.svg") no-repeat;
 }
 
 #dispositos1 {
