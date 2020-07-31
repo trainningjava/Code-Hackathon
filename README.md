@@ -35,6 +35,7 @@ Front-end:
 - CSS
 - JavaScript
 - Google Charts
+- ibm cloud chatbot
 
 Template engine: 
 - Nunjucks
