@@ -12,7 +12,7 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu:wght@300;700&display=swap"
     />
-    <link rel="stylesheet" href="/styles/calculadora.css" />
+    <link rel="stylesheet" href="/styles/cadastro-dispositivo.css" />
   </head>
   <body>
     {% if msg %}
@@ -20,30 +20,21 @@
       alert("{{msgtxt}}");
     </script>
     {% endif %}
-    <h2>CALCULADORA</h2>
+    <h2>ADICIONAR NOVO DISPOSITIVO</h2>
 
-    <form action="/create-tax" method="POST">
-      <span>Consumo geral</span>
+    <form action="/smart" method="GET">
       <div class="field-group">
         <div class="field">
-          <input
-            type="text"
-            name="taxa"
-            placeholder="Taxa de energia do seu Estado em R$"
-            required="required"
-            value="13,06"
-          />
+          <input type="text" name="tipo" placeholder="Tipo" /><i
+            class="fa fa-arrow-circle-down fa-3x"
+            style="color: #9f9c9c;"
+          ></i>
         </div>
       </div>
-
       <div class="field-group">
         <div class="field">
-          <input
-            type="text"
-            name="custo"
-            placeholder="Custo fixo por dia"
-            required="required"
-          />
+          <input type="text" name="nome" placeholder="Nome" />
+          <i class="fa fa-arrow-circle-down fa-3x" style="color: white;"> </i>
         </div>
       </div>
 
@@ -67,54 +58,43 @@
 
       <div class="field-group">
         <div class="field">
-          <button type="submit">Calcular</button>
+          <input
+            type="text"
+            name="potencia"
+            placeholder="Potencia"
+            style="width: 150px;"
+          />
+          <input
+            type="text"
+            name="tipopotencia"
+            placeholder="kwh"
+            style="width: 150px;"
+          />
+          <i class="fa fa-arrow-circle-down fa-3x" style="color: #9f9c9c;"></i>
         </div>
       </div>
-      <!-- ############################################################## -->
-      <span>Consumo específico</span>
+
       <div class="field-group">
         <div class="field">
           <input
             type="text"
-            name="taxa"
-            placeholder="Taxa de energia do seu Estado em R$"
-            required="required"
+            name="tempouso"
+            placeholder="Tempo de uso"
+            style="width: 150px;"
           />
-        </div>
-      </div>
-
-      <div class="field-group">
-        <div class="field">
           <input
             type="text"
-            name="custo"
-            placeholder="Custo fixo por dia"
-            required="required"
+            name="horas"
+            placeholder="horas"
+            style="width: 150px;"
           />
+          <i class="fa fa-arrow-circle-down fa-3x" style="color: #9f9c9c;"></i>
         </div>
       </div>
 
       <div class="field-group">
         <div class="field">
-          <a href="#" class="arrow-left" id="arrow-left">
-            <i
-              class="fa fa-arrow-circle-left fa-3x"
-              style="color: #9f9c9c;"
-            ></i>
-          </a>
-          <label class="qtddias" for="qtddias">30</label>
-          <a href="#" class="arrow-right" id="arrow-right">
-            <i
-              class="fa fa-arrow-circle-right fa-3x"
-              style="color: #9f9c9c;"
-            ></i>
-          </a>
-        </div>
-      </div>
-
-      <div class="field-group">
-        <div class="field">
-          <button type="submit">Calcular</button>
+          <button type="submit">Adicionar</button>
         </div>
       </div>
     </form>
@@ -145,7 +125,7 @@
     </div>
   </body>
 </html>
-<script src="/scripts/calculadora.js"></script>
+<script src="/scripts/cadastro-dispositivo.js"></script>
 
 <script>
   window.watsonAssistantChatOptions = {

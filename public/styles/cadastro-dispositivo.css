@@ -215,8 +215,7 @@ form button:hover {
 
   background: url("/assets/robeco.svg") no-repeat;
 }
-
-#robeco:hover {
+cadastro-dispositivo #robeco:hover {
   width: 200px;
   height: 150px;
 
@@ -256,4 +255,18 @@ form button:hover {
   height: 150px;
 
   background: url("/assets/configuracao.svg") no-repeat;
+}
+
+.divc1 {
+  margin: 0 42%;
+}
+
+.grid {
+  display: grid;
+}
+.grid-columns-2 {
+  grid-template-columns: 50px 10px;
+  /* grid-template-rows: 135px 135px; */
+
+  text-align: center;
 }

@@ -80,6 +80,13 @@ html {
   background: url("/assets/dispositivos.svg") no-repeat;
 }
 
+#dispositivo:hover {
+  width: 200px;
+  height: 150px;
+
+  background: url("/assets/dispositivos1.svg") no-repeat;
+}
+
 #consumo {
   width: 200px;
   height: 150px;
@@ -129,7 +136,7 @@ h2 {
 .field {
   display: flex;
   align-items: center;
-  width: 330px;
+  width: 400px;
   height: 200px;
   text-align: center;
 }
@@ -143,7 +150,7 @@ h2 {
   display: flex;
   align-content: center;
   align-items: center;
-  width: 600px;
+  width: 500px;
   margin: 0 auto;
 }
 
