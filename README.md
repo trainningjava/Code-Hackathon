@@ -3,7 +3,7 @@ Call for Code Hackathon
 
 https://callforcode.shawee.io/
 
-O que é?
+<h2>O que é?</h2>
 
 O Call for Code Hackathon é um evento criativo que tem como objetivo criar soluções escaláveis para todo o mundo sobre problemas causados pela <b>COVID-19 e impactos referente as mudanças climáticas</b>. Serão milhares de pessoas que vão dedicar tempo e conhecimento para “co-criar” esses projetos.
 
@@ -21,7 +21,15 @@ O desafio deste ano está focado tanto no COVID-19 quanto nas mudanças climáti
 Mudanças Climáticas
 O gerente de ofertas técnicas da IBM, Sai Vennam, descreve os três kits iniciais para ajudar os desenvolvedores a lidar com as mudanças climáticas por meio do Desafio Global - Call For Code de 2020 e como começar a construir a sua solução.
 
-Técnologias usadas:
+<h2>Uso</h2>
+
+No diretório do projeto
+
+npm install - isso instala as dependencias
+
+npm start - iniciará o projeto na porta 3000
+
+<h2>Técnologias usadas</h2>
 Front-end:
 - HTML
 - CSS
