@@ -8,6 +8,38 @@ html {
   font-family: "Roboto", sans-serif;
 }
 
+span {
+  display: flex;
+  font-weight: bold;
+  width: 450px;
+  margin: 0 auto;
+}
+
+.field-group {
+  margin: 0 auto;
+}
+
+.field-group2 {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  width: 500px;
+  margin: 0 auto;
+}
+
+.fieldrodape {
+  display: flex;
+  align-items: center;
+  width: 330px;
+  height: 200px;
+  text-align: center;
+}
+
+.rodape {
+  height: 45px;
+  width: 50%;
+}
+
 #logo {
   margin-top: 42px;
   height: 20vh;
@@ -132,7 +164,7 @@ form button.a {
 }
 
 form button:hover {
-  background-color: #a7dc10;
+  background-color: #ffeaca;
 }
 
 #smart {
