@@ -38,5 +38,5 @@ Back-end:
 - SQLite
 
 Prototipo de tela:
-- figma (<img src="./prototipos/prototipo.JPG" />)
+- figma (<img src="Prototipos/prototipo.JPG" />)
 
