@@ -20,12 +20,12 @@ Um ambiente perfeito para criatividade e inovação está sendo criado e durante
 
 Durante esse período os participantes terão acesso a mentorias, palestras e conteúdos com diversos especialistas, além disso todos os dias teremos um plantão de dúvidas para ajudar os grupos durante o processo.
 
-## :information_source: Call for code
+## :bulb: Call for code
 
 Codifique e implemente soluções para enfrentar os maiores desafios da sociedade
 Junte-se a mais de 210.000 desenvolvedores, cientistas de dados e solucionadores de problemas que se reuniram nos últimos dois anos para criar mais de 8.000 aplicativos no maior desafio tecnológico do gênero
 
-## :interrobang: Desafio
+## :heavy_check_mark: Desafio
 
 O desafio deste ano está focado tanto no COVID-19 quanto nas mudanças climáticas. Tudo o que você escolher construir, registre-se para obter acesso gratuito ao IBM Cloud e receba atualizações regulares que lhe darão novas habilidades e ajudarão a acelerar seu desenvolvimento.
 
