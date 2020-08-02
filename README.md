@@ -8,7 +8,7 @@ Site do IBM - [Call for Code Hackathon][site]
   <a href="#interrobang-desafio">Desafio</a>&nbsp;|&nbsp;
   <a href="#seedling-requisitos-mínimos">Requisitos</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
-  <a href="#link-como-contribuir">Como Contribuir</a>&nbsp;|&nbsp;
+  <a href="#iphone-telas">Telas</a>&nbsp;|&nbsp;
 </h3>
 
 ## :information_source: O que é?
@@ -62,7 +62,7 @@ Back-end:
 Prototipo de tela:
 - [Figma][figma]
 
-Telas 
+## :iphone: Telas
 
 <img src="Prototipos/ENTRAR.png" width="300"/><img src="Prototipos/CRIAR_CONTA.png" width="300"/><img src="Prototipos/CONFIGURAR_TAXA.png" width="300"/>
 <img src="Prototipos/CONSUMPTION.png" width="300"/><img src="Prototipos/SMART.png" width="300"/><img src="Prototipos/ADD_DISPOSITIVO.png" width="300"/>
