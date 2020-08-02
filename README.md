@@ -45,6 +45,7 @@ npm start - iniciará o projeto na porta 3000
 ## :rocket: Tecnologias Utilizadas 
 
 Front-end:
+```frond-end
 - HTML
 - CSS
 - JavaScript
@@ -52,15 +53,18 @@ Front-end:
 - IBM Cloud ChatBot
 
 Template engine: 
+```template
 - Nunjucks
 
 Back-end:
+```back
 - Node.js
 - Express
 - Crypto-js
 - SQLite
 
 Prototipo de tela:
+```prototipo
 - [Figma][figma]
 
 ## :iphone: Telas
