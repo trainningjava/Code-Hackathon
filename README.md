@@ -51,10 +51,12 @@ Front-end:
 - JavaScript
 - Google Charts
 - IBM Cloud ChatBot
+```
 
 Template engine: 
 ```template
 - Nunjucks
+```
 
 Back-end:
 ```back
@@ -62,10 +64,12 @@ Back-end:
 - Express
 - Crypto-js
 - SQLite
+```
 
 Prototipo de tela:
 ```prototipo
 - [Figma][figma]
+```
 
 ## :iphone: Telas
 
@@ -76,11 +80,12 @@ Prototipo de tela:
 
 ## :heartpulse: Equipe
 
+```equipe
 - [Anne K. C. Macedo (Marketing)][karol]
 - [Luiz Miyanishi (Desenvolvedor)][luiz]
 - Simão R. de Mesquita (Business)
 - [Thainá Weingartner (Designer)][thaina]
-
+```
 [figma]:https://www.figma.com/proto/5ooutrgV7i047O3qcwTTaT/2Eco?node-id=0%3A1&scaling=scale-down
 [karol]:https://github.com/AnneMacedo
 [luiz]:https://github.com/trainningjava
