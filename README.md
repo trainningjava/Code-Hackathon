@@ -4,8 +4,8 @@ Site do IBM - [Call for Code Hackathon][site]
 
 <h3 align="center">
   <a href="#information_source-o-que-é">O que é?</a>&nbsp;|&nbsp;
-  <a href="#information_source-call-for-code">Call for Code</a>&nbsp;|&nbsp;
-  <a href="#interrobang-desafio">Desafio</a>&nbsp;|&nbsp;
+  <a href="#bulb-call-for-code">Call for Code</a>&nbsp;|&nbsp;
+  <a href="#heavy_check_mark-desafio">Desafio</a>&nbsp;|&nbsp;
   <a href="#seedling-Uso">Uso</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
   <a href="#iphone-telas">Telas</a>&nbsp;|&nbsp;
