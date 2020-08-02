@@ -6,9 +6,10 @@ Site do IBM - [Call for Code Hackathon][site]
   <a href="#information_source-o-que-é">O que é?</a>&nbsp;|&nbsp;
   <a href="#information_source-call-for-code">Call for Code</a>&nbsp;|&nbsp;
   <a href="#interrobang-desafio">Desafio</a>&nbsp;|&nbsp;
-  <a href="#seedling-requisitos-mínimos">Requisitos</a>&nbsp;|&nbsp;
+  <a href="#seedling-Uso">Uso</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
   <a href="#iphone-telas">Telas</a>&nbsp;|&nbsp;
+  <a href="#heartpulse-equipe">Equipe</a>&nbsp;|&nbsp;
 </h3>
 
 ## :information_source: O que é?
@@ -33,7 +34,7 @@ O gerente de ofertas técnicas da IBM, Sai Vennam, descreve os três kits inicia
 
 <h2>Projeto do Time 30 - EFICIÊNCIA ENERGETICA</h2>
 
-<h2>Uso</h2>
+## :seedling: Uso 
 
 No diretório do projeto
 
@@ -69,7 +70,8 @@ Prototipo de tela:
 <img src="Prototipos/DISPOSITIVO_COMUM.png" width="300"/><img src="Prototipos/PROCURANDO DISPOSITIVO.png" width="300"/><img src="Prototipos/DISPOSITIVOS.png" width="300"/>
 <img src="Prototipos/CHAT_BOT1.png" width="300"/><img src="Prototipos/CHAT_BOT2.png" width="300"/><img src="Prototipos/CHAT_BOT3.png" width="300"/>
 
-Equipe:
+## :heartpulse: Equipe
+
 - [Anne K. C. Macedo (Marketing)][karol]
 - [Luiz Miyanishi (Desenvolvedor)][luiz]
 - Simão R. de Mesquita (Business)
