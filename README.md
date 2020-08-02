@@ -38,9 +38,9 @@ O gerente de ofertas técnicas da IBM, Sai Vennam, descreve os três kits inicia
 
 No diretório do projeto
 
-npm install - isso instala as dependencias
+- Instala as dependencias `npm install`
 
-npm start - iniciará o projeto na porta 3000
+- Executar o projeto na porta 3000 `npm start`
 
 ## :rocket: Tecnologias Utilizadas 
 
