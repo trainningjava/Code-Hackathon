@@ -5,7 +5,7 @@ Site do IBM - [Call for Code Hackathon][site]
 <h3 align="center">
   <a href="#information_source-o-que-é">O que é?</a>&nbsp;|&nbsp;
   <a href="#information_source-call-for-code">Call for Code</a>&nbsp;|&nbsp;
-  <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
+  <a href="#interrobang-desafio">Desafio</a>&nbsp;|&nbsp;
   <a href="#seedling-requisitos-mínimos">Requisitos</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
   <a href="#link-como-contribuir">Como Contribuir</a>&nbsp;|&nbsp;
@@ -23,6 +23,8 @@ Durante esse período os participantes terão acesso a mentorias, palestras e co
 
 Codifique e implemente soluções para enfrentar os maiores desafios da sociedade
 Junte-se a mais de 210.000 desenvolvedores, cientistas de dados e solucionadores de problemas que se reuniram nos últimos dois anos para criar mais de 8.000 aplicativos no maior desafio tecnológico do gênero
+
+## :interrobang: Desafio
 
 O desafio deste ano está focado tanto no COVID-19 quanto nas mudanças climáticas. Tudo o que você escolher construir, registre-se para obter acesso gratuito ao IBM Cloud e receba atualizações regulares que lhe darão novas habilidades e ajudarão a acelerar seu desenvolvimento.
 
