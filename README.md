@@ -4,6 +4,7 @@ Site do IBM - [Call for Code Hackathon][site]
 
 <h3 align="center">
   <a href="#information_source-o-que-é">O que é?</a>&nbsp;|&nbsp;
+  <a href="#information_source-call-for-code">Call for Code</a>&nbsp;|&nbsp;
   <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
   <a href="#seedling-requisitos-mínimos">Requisitos</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
@@ -18,7 +19,7 @@ Um ambiente perfeito para criatividade e inovação está sendo criado e durante
 
 Durante esse período os participantes terão acesso a mentorias, palestras e conteúdos com diversos especialistas, além disso todos os dias teremos um plantão de dúvidas para ajudar os grupos durante o processo.
 
-<center><b>Call for Code</b><center>
+## :information_source: Call for code
 
 Codifique e implemente soluções para enfrentar os maiores desafios da sociedade
 Junte-se a mais de 210.000 desenvolvedores, cientistas de dados e solucionadores de problemas que se reuniram nos últimos dois anos para criar mais de 8.000 aplicativos no maior desafio tecnológico do gênero
