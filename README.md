@@ -1,16 +1,14 @@
-# Code-Hackathon
-Call for Code Hackathon
+# Call for Code Hackathon
 
-https://callforcode.shawee.io/
+Site do IBM - [Call for Code Hackathon][site]
 
 <h3 align="center">
   <a href="#information_source-o-que-é">O que é?</a>&nbsp;|&nbsp;
   <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
   <a href="#seedling-requisitos-mínimos">Requisitos</a>&nbsp;|&nbsp;
-  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
+  <a href="#technology-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
   <a href="#link-como-contribuir">Como Contribuir</a>&nbsp;|&nbsp;
 </h3>
-
 
 ## :information_source: O que é?
 
@@ -40,7 +38,7 @@ npm install - isso instala as dependencias
 
 npm start - iniciará o projeto na porta 3000
 
-<h2>Técnologias usadas</h2>
+## :technology: Tecnologias Utilizadas 
 
 Front-end:
 - HTML
@@ -78,3 +76,4 @@ Equipe:
 [karol]:https://github.com/AnneMacedo
 [luiz]:https://github.com/trainningjava
 [thaina]:https://github.com/thainaweingartner
+[site]:https://callforcode.shawee.io/
