@@ -15,7 +15,6 @@ router.use(function (req, res, next) {
 router
   .route("/login")
   .get((req, res) => {
-    console.dir({ req });
     const email = req.query.email;
     const senha = req.query.password;
     const secretkey = email + key1;
