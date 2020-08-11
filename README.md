@@ -1,6 +1,7 @@
 # Call for Code Hackathon
 
-Site do IBM - [Call for Code Hackathon][site]
+Site do IBM - [Call for Code Hackathon][site] 
+<br><img width="150" src="Prototipos/Inicio.jpg">
 
 <h3 align="center">
   <a href="#information_source-o-que-é">O que é?</a>&nbsp;|&nbsp;
