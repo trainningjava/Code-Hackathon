@@ -1,0 +1,115 @@
+.footer {
+  left: 0;
+  bottom: 0;
+  /* position: fixed; */
+  align-content: center;
+  align-items: center;
+  width: 600px;
+  height: 50px;
+  margin: 0 auto;
+}
+
+.navegacao {
+  margin-left: auto;
+  margin-right: auto;
+  /* border: 3px solid green; */
+  width: 400px;
+  display: flex;
+  align-content: space-between;
+}
+
+.rodape {
+  align-items: center;
+  width: 200px;
+}
+
+#smart {
+  width: 150px;
+  height: 150px;
+
+  background: url("/assets/smart.svg") no-repeat;
+}
+
+#smart:hover {
+  width: 150px;
+  height: 150px;
+
+  background: url("/assets/smart1.svg") no-repeat;
+}
+
+#consumo {
+  width: 150px;
+  height: 150px;
+
+  background: url("/assets/consumo.svg") no-repeat;
+}
+
+#consumo:hover {
+  width: 150px;
+  height: 150px;
+
+  background: url("/assets/consumo1.svg") no-repeat;
+}
+
+#calculadora {
+  width: 150px;
+  height: 150px;
+
+  background: url("/assets/calculadora.svg") no-repeat;
+}
+
+#calculadora:hover {
+  width: 150px;
+  height: 150px;
+
+  background: url("/assets/calculadora1.svg") no-repeat;
+}
+
+#dispositivo {
+  width: 150px;
+  height: 150px;
+
+  background: url("/assets/dispositivos.svg") no-repeat;
+}
+
+#dispositivo:hover {
+  width: 150px;
+  height: 150px;
+
+  background: url("/assets/dispositivos1.svg") no-repeat;
+}
+
+#robeco {
+  width: 150px;
+  height: 150px;
+
+  background: url("/assets/robeco.svg") no-repeat;
+}
+
+#robeco:hover {
+  width: 150px;
+  height: 150px;
+
+  background: url("/assets/robeco1.svg") no-repeat;
+}
+
+#consumo {
+  width: 150px;
+  height: 150px;
+
+  background: url("/assets/consumo.svg") no-repeat;
+}
+
+#consumo:hover {
+  width: 150px;
+  height: 150px;
+
+  background: url("/assets/consumo1.svg") no-repeat;
+}
+
+#configuracao {
+  width: 150px;
+  height: 150px;
+
+  background: url("/assets/configuracao.svg") no-repeat;
+}
