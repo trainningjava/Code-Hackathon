@@ -17,83 +17,6 @@ html {
   background: url("/assets/mensagem.svg") no-repeat;
 }
 
-#smart {
-  width: 200px;
-  height: 150px;
-
-  background: url("/assets/smart.svg") no-repeat;
-}
-
-#smart:hover {
-  width: 200px;
-  height: 150px;
-
-  background: url("/assets/smart1.svg") no-repeat;
-}
-
-#consumo {
-  width: 200px;
-  height: 150px;
-
-  background: url("/assets/consumo.svg") no-repeat;
-}
-
-#consumo:hover {
-  width: 200px;
-  height: 150px;
-
-  background: url("/assets/consumo1.svg") no-repeat;
-}
-
-#calculadora {
-  width: 200px;
-  height: 150px;
-
-  background: url("/assets/calculadora.svg") no-repeat;
-}
-
-#calculadora:hover {
-  width: 200px;
-  height: 150px;
-
-  background: url("/assets/calculadora1.svg") no-repeat;
-}
-
-#robeco {
-  width: 200px;
-  height: 150px;
-
-  background: url("/assets/robeco.svg") no-repeat;
-}
-
-#robeco:hover {
-  width: 200px;
-  height: 150px;
-
-  background: url("/assets/robeco1.svg") no-repeat;
-}
-
-#consumo {
-  width: 200px;
-  height: 150px;
-
-  background: url("/assets/consumo.svg") no-repeat;
-}
-
-#consumo:hover {
-  width: 200px;
-  height: 150px;
-
-  background: url("/assets/consumo1.svg") no-repeat;
-}
-
-#configuracao {
-  width: 200px;
-  height: 150px;
-
-  background: url("/assets/configuracao.svg") no-repeat;
-}
-
 h2 {
   margin-top: 40px;
   text-align: center;
@@ -177,19 +100,24 @@ h2 {
 }
 
 .grid-columns-2 {
-  grid-template-columns: 200px 200px;
-  grid-template-rows: 135px 135px;
-
-  text-align: center;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
 }
 
 .divc {
-  margin: 0 35%;
-  width: 500px;
+  align-content: center;
+  align-items: center;
+  width: 600px;
+  height: 50px;
+  margin: 0 auto;
 }
 
 .divc1 {
-  margin: 0 42%;
+  align-content: center;
+  align-items: center;
+  width: 400px;
+  height: 450px;
+  margin: 0 auto;
 }
 
 .item2 {
@@ -222,43 +150,55 @@ h2 {
 }
 
 #dispositos1 {
+  margin-left: auto;
+  margin-right: auto;
   width: 143px;
-  height: 120px;
+  height: 150px;
 
   background: url("/assets/dispositivosmart1.svg") no-repeat;
 }
 
 #dispositos2 {
+  margin-left: auto;
+  margin-right: auto;
   width: 143px;
-  height: 120px;
+  height: 150px;
 
   background: url("/assets/dispositivosmart2.svg") no-repeat;
 }
 
 #dispositos3 {
+  margin-left: auto;
+  margin-right: auto;
   width: 143px;
-  height: 120px;
+  height: 150px;
 
   background: url("/assets/dispositivosmart3.svg") no-repeat;
 }
 
 #dispositos4 {
+  margin-left: auto;
+  margin-right: auto;
   width: 143px;
-  height: 120px;
+  height: 150px;
 
   background: url("/assets/dispositivosmart4.svg") no-repeat;
 }
 
 #dispositos5 {
+  margin-left: auto;
+  margin-right: auto;
   width: 143px;
-  height: 120px;
+  height: 150px;
 
   background: url("/assets/dispositivosmart5.svg") no-repeat;
 }
 
 #dispositos6 {
+  margin-left: auto;
+  margin-right: auto;
   width: 143px;
-  height: 120px;
+  height: 150px;
 
   background: url("/assets/dispositivosmart6.svg") no-repeat;
 }

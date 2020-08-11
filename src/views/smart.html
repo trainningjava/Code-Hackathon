@@ -1,6 +1,8 @@
 <html>
   <head>
     <link rel="stylesheet" href="/styles/smart.css" />
+        <link rel="stylesheet" href="/styles/rodape.css" />
+
   </head>
   <body>
     <h2>SMART</h2>
@@ -35,22 +37,22 @@
     <div class="field-group2">
       <div class="field">
         <div class="rodape">
-          <a href="/consumo" class="consumo" id="consumo">
+          <a href="/browser/consumo" class="consumo" id="consumo">
             <div id="consumo"></div>
           </a>
         </div>
         <div class="rodape">
-          <a href="/dispositivo" class="dispositivo" id="dispositivo">
+          <a href="/browser/dispositivo" class="dispositivo" id="dispositivo">
             <div id="dispositivo"></div>
           </a>
         </div>        
         <div class="rodape">
-          <a href="/calculadora" class="calculadora" id="calculadora">
+          <a href="/browser/calculadora" class="calculadora" id="calculadora">
             <div id="calculadora"></div>
           </a>
         </div>
         <div class="rodape">
-          <a href="/configuracao" class="configuracao" id="configuracao">
+          <a href="/browser/configuracao" class="configuracao" id="configuracao">
             <div id="configuracao"></div>
           </a>
         </div>
@@ -60,21 +62,4 @@
   </body>
 </html>
 
-<script src="/scripts/consumo.js"></script>
-
-<script>
-  window.watsonAssistantChatOptions = {
-    integrationID: "3e2c3c73-d944-45bb-98c0-6595cf5cff78", // The ID of this integration.
-    region: "us-south", // The region your integration is hosted in.
-    serviceInstanceID: "151cff9d-f714-49fe-8b37-9345a2518b09", // The ID of your service instance.
-    onLoad: function (instance) {
-      instance.render();
-    },
-  };
-  setTimeout(function () {
-    const t = document.createElement("script");
-    t.src =
-      "https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
-    document.head.appendChild(t);
-  });
-</script>
+<script src="/scripts/robeco.js"></script>
