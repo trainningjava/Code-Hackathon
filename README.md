@@ -15,7 +15,7 @@ Site do IBM - [Call for Code Hackathon][site]
 
 ## :information_source: O que é?
 
-O Call for Code Hackathon é um evento criativo que tem como objetivo criar soluções escaláveis para todo o mundo sobre problemas causados pela <b>COVID-19 e impactos referente as mudanças climáticas</b>. Serão milhares de pessoas que vão dedicar tempo e conhecimento para “co-criar” esses projetos.
+O Call for Code Hackathon (Julho/2020) é um evento criativo que tem como objetivo criar soluções escaláveis para todo o mundo sobre problemas causados pela <b>COVID-19 e impactos referente as mudanças climáticas</b>. Serão milhares de pessoas que vão dedicar tempo e conhecimento para “co-criar” esses projetos.
 
 Um ambiente perfeito para criatividade e inovação está sendo criado e durante os 5 dias vamos trabalhar juntos 100% online e home-office.
 
